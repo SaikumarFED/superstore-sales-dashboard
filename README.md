@@ -26,7 +26,9 @@ Retail managers need a clear view of sales trends, profit drivers, and regional 
 - 15-day sales forecast helps short-term planning
 
  Dashboard Preview
-(See attached PDF)
+(See attached PDF)![Screenshot_23-12-2025_184336_](https://github.com/user-attachments/assets/e3beaa2e-a062-4266-86d2-11481f5095b0)
+![Screenshot_23-12-2025_184350_](https://github.com/user-attachments/assets/e1338808-ea3d-4848-bcb2-1da6d080c8df)
+
 
 ## Outcome
 This dashboard helps business stakeholders quickly track performance, identify high-value regions, and optimize category-level decisions.
